@@ -57,4 +57,4 @@ For questions, feedback, or collaboration, reach out via:
 - **Email**: venerandaawunyo@gmail.com
 
 ## Dashboard
-[Dashboard Sample](https://github.com/Vene97/Retail-Sales-Dashboard)
+(https://github.com/Vene97/Retail-Sales-Dashboard)
